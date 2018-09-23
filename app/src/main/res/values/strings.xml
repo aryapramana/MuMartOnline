@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MuMart Online</string>
+    <string name="groceries_txt">Groceries</string>
+    <string name="plane_txt">Plane</string>
+    <string name="electicity_txt">Electicity</string>
+    <string name="movie_txt">Movie</string>
+    <string name="train_txt">Train</string>
+    <string name="restaurant_txt">Restaurant</string>
+    <string name="hotel_txt">Hotel</string>
+    <string name="smartphone_txt">Smartphone</string>
+    <string name="other_txt">Other</string>
+    <string name="car_rental_txt">Car Rental</string>
+    <string name="game_voucher_txt">Game Voucher</string>
+</resources>
